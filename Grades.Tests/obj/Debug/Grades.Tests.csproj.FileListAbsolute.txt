@@ -1,0 +1,6 @@
+C:\Users\andrew.bright\Documents\GitHub\Tutorial\Pluralsight-C-Sharp-Path\Grades.Tests\bin\Debug\Grades.Tests.dll
+C:\Users\andrew.bright\Documents\GitHub\Tutorial\Pluralsight-C-Sharp-Path\Grades.Tests\bin\Debug\Grades.Tests.pdb
+C:\Users\andrew.bright\Documents\GitHub\Tutorial\Pluralsight-C-Sharp-Path\Grades.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\andrew.bright\Documents\GitHub\Tutorial\Pluralsight-C-Sharp-Path\Grades.Tests\obj\Debug\Grades.Tests.csprojResolveAssemblyReference.cache
+C:\Users\andrew.bright\Documents\GitHub\Tutorial\Pluralsight-C-Sharp-Path\Grades.Tests\obj\Debug\Grades.Tests.dll
+C:\Users\andrew.bright\Documents\GitHub\Tutorial\Pluralsight-C-Sharp-Path\Grades.Tests\obj\Debug\Grades.Tests.pdb

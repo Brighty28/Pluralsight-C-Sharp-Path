@@ -4,3 +4,6 @@ C:\Users\andrew.bright\Documents\GitHub\Tutorial\Tutorial\bin\Debug\Tutorial.pdb
 C:\Users\andrew.bright\Documents\GitHub\Tutorial\Tutorial\obj\Debug\Tutorial.csprojResolveAssemblyReference.cache
 C:\Users\andrew.bright\Documents\GitHub\Tutorial\Tutorial\obj\Debug\Tutorial.exe
 C:\Users\andrew.bright\Documents\GitHub\Tutorial\Tutorial\obj\Debug\Tutorial.pdb
+C:\Users\andrew.bright\Documents\GitHub\Tutorial\Pluralsight-C-Sharp-Path\Tutorial\bin\Debug\Tutorial.exe.config
+C:\Users\andrew.bright\Documents\GitHub\Tutorial\Pluralsight-C-Sharp-Path\Tutorial\obj\Debug\Tutorial.exe
+C:\Users\andrew.bright\Documents\GitHub\Tutorial\Pluralsight-C-Sharp-Path\Tutorial\obj\Debug\Tutorial.pdb

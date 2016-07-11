@@ -3,3 +3,9 @@ C:\Users\andrew.bright\Documents\GitHub\Tutorial\Grades\bin\Debug\Grades.exe
 C:\Users\andrew.bright\Documents\GitHub\Tutorial\Grades\bin\Debug\Grades.pdb
 C:\Users\andrew.bright\Documents\GitHub\Tutorial\Grades\obj\Debug\Grades.exe
 C:\Users\andrew.bright\Documents\GitHub\Tutorial\Grades\obj\Debug\Grades.pdb
+C:\Users\andrew.bright\Documents\GitHub\Tutorial\Pluralsight-C-Sharp-Path\Grades\bin\Debug\Grades.exe.config
+C:\Users\andrew.bright\Documents\GitHub\Tutorial\Pluralsight-C-Sharp-Path\Grades\bin\Debug\Grades.exe
+C:\Users\andrew.bright\Documents\GitHub\Tutorial\Pluralsight-C-Sharp-Path\Grades\bin\Debug\Grades.pdb
+C:\Users\andrew.bright\Documents\GitHub\Tutorial\Pluralsight-C-Sharp-Path\Grades\obj\Debug\Grades.csprojResolveAssemblyReference.cache
+C:\Users\andrew.bright\Documents\GitHub\Tutorial\Pluralsight-C-Sharp-Path\Grades\obj\Debug\Grades.exe
+C:\Users\andrew.bright\Documents\GitHub\Tutorial\Pluralsight-C-Sharp-Path\Grades\obj\Debug\Grades.pdb
